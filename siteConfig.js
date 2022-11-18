@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://murkav.co.il", // Site domain. Do not include a trailing slash!
+  siteUrl: "http://rarecuration.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "murkav", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "rarecuration", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "murkav", // This allows an alternative site description for meta data for pages.
+    "rarecuration", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "murkav", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "rarecuration", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "murkav",
+    title: "rarecuration",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://murkav.co.il/",
+        url: "https://rarecuration.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://murkav.co.il/contact",
+        url: "https://rarecuration.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://murkav.co.il/",
+        url: "https://rarecuration.com/",
       },
       {
         label: "Sitemap",
-        url: "https://murkav.co.il/sitemap.xml",
+        url: "https://rarecuration.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://murkav.co.il/contact",
+        url: "https://rarecuration.com/contact",
       },
                  
        {
