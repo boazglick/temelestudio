@@ -51,8 +51,8 @@ module.exports = {
       },
                  
        {
-        label: "קרסו נדלן מאיה",
-        url: "https://maya.tase.co.il/company/2384",
+        label: "Movefix",
+        url: "https://movefix.co.il",
       },
       
     ],
@@ -75,9 +75,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "murkav",
+    title: "Rarecuration",
     description:
-      "murkav",
+      "Rarecuration",
   },
   twitterCard: {
     title: "",
@@ -87,15 +87,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "yarokaz",
+    title: "rarecuration",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "murkav",
+  siteTitle: "Rarecuration",
   siteDescription:
-    "murkav",
+    "Rarecuration",
   language: "he",
   logoUrl: "",
   iconUrl: "",
