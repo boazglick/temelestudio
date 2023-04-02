@@ -1,5 +1,5 @@
 {
-  "baseUrl": "rarecuration.ussl.info",
+  "baseUrl": "spider.ussl.co.il/rarecuration",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
