@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "http://temelestudio.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "http://temelestudio.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://temelestudio.com/",
+        url: "https://temelestudio.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://temelestudio.com/contact",
+        url: "https://temelestudio.net/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://temelestudio.com/",
+        url: "https://temelestudio.net/",
       },
       {
         label: "Sitemap",
-        url: "https://temelestudio.com/sitemap.xml",
+        url: "https://temelestudio.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://temelestudio.com/contact",
+        url: "https://temelestudio.net/contact",
       },
                  
        {
